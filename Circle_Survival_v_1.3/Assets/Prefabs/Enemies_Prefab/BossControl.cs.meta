@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f3c1d569b5cc854abe202568401b0c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blackEnemy: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - diamondCoin: {instanceID: 0}
+  - effect: {instanceID: 0}
+  - soundEffector: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
